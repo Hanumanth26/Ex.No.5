@@ -31,6 +31,11 @@ Use bullet points and headings for clarityYou are an expert travel planner. Plea
 Day 1: Classic Paris Welcome – Eiffel Tower & River Seine
 Morning:
 
+
+![images](https://github.com/user-attachments/assets/6347ef05-f922-4c5d-a4a8-db043de8c412)
+
+
+
 Check-in & light breakfast near hotel (try Café Kitsuné for good coffee and pastries)
 
 Head to Eiffel Tower – go early to beat crowds (pre-book tickets to the summit)
@@ -76,6 +81,10 @@ Local Tip: Le Marais stays lively in the evenings and is less tourist-heavy than
 
 # Day 3: Montmartre Magic & Hidden Corners
 Morning:
+
+![7d](https://github.com/user-attachments/assets/7e3a796b-a4c6-485c-9639-b0fb5e17e1e5)
+
+
 
 Head to Montmartre – start at Sacré-Cœur (go early)
 
@@ -207,6 +216,10 @@ How to Start (Low-Code Option):
 ✅ Partner with Trainers (offer them a platform for clients).
 ✅ Monetization:
 
+![Uploading images (1).jpeg…]()
+
+
+
 Freemium app (basic free, premium features paid).
 
 Affiliate sales (recommend supplements/equipment).
@@ -258,7 +271,7 @@ Personalisation adapts well to tone/style	More
 New chat
 
 
-Deliverables:
+# Deliverables:
 A table comparing ChatGPT's responses to naïve and basic prompts across all scenarios.
  deepseek Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatGPT’s outputs.
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
