@@ -216,7 +216,8 @@ How to Start (Low-Code Option):
 ✅ Partner with Trainers (offer them a platform for clients).
 ✅ Monetization:
 
-![Uploading images (1).jpeg…]()
+
+![images (1)](https://github.com/user-attachments/assets/dba08053-6856-498d-b502-a2d5c33c20aa)
 
 
 
